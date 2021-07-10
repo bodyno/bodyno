@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Stack framework and Node.JS
 - 💬 Ask me about what you fear of 🃏
 - 📫 How to reach me: az8321550@gmail.com
+
+![snake gif](https://github.com/bodyno/bodyno/blob/output/github-contribution-grid-snake.gif)
